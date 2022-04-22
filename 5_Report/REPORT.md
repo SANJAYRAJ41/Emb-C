@@ -1,4 +1,5 @@
 
+
 # Requirements
 
 # INTRODUCTION
@@ -49,6 +50,7 @@ The main component is ATmega32## TEST PLAN
 # Simulation
 # switch ON
 # Switch OFF
+<img width="945" alt="switch off" src="https://user-images.githubusercontent.com/102659076/164596368-b5bed195-fdff-42e1-b338-b071df866023.png">
 
 
 ```http
