@@ -1,0 +1,1 @@
+[1_REQUIREMENTS.md](https://github.com/SANJAYRAJ41/Emb-C/files/8536338/1_REQUIREMENTS.md)
